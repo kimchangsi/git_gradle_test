@@ -7,5 +7,7 @@ public class HellowWord {
 		System.out.println("earth's end Dancehall");
 		System.out.println("earth's end Dancehall1");
 		System.out.println("Local");
+		System.out.println("GitHub Editing");
+
 	}
 }
